@@ -1,7 +1,7 @@
 # API REST - Proyecto Final Spring Boot
 
 
-# API REST - Proyecto Final Spring Boot
+
 
 > ⚠️ **Este proyecto fue superado por una versión más completa y actualizada:**
 > 👉 [spring-boot-gestion-ventas](https://github.com/RomeroNahuell/spring-boot-gestion-ventas)
